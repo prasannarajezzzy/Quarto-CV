@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/prasanna_1218
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/prasanna-rajendra/
+    - icon: github
+      text: Github
+      href: https://github.com/prasannarajezzzy
+
+---
+
+About this blog
